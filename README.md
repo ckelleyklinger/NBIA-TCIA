@@ -23,7 +23,7 @@ You will find more details about National Biomedical Image Archive  in the follo
   * [Issue Tracker] (https://tracker.nci.nih.gov/browse/NBIA)
   * [Code Repository] (https://github.com/NCIP/national-biomedical-image-archive)
   * [Developer Guide] (https://wiki.nci.nih.gov/x/zgHx)
-  * [Installation Guide] (https://wiki.nci.nih.gov/x/QIvxBw)
+  * [Installation Guide] (https://wiki.nci.nih.gov/x/kgKYFg)
   * [Hosted Instance of NBIA] (http://imaging.nci.nih.gov)
     
 Please join us in further developing and improving National Biomedical Imaging Archive (NBIA).
